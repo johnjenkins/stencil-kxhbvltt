@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/johnjenkins.stencil-kxhbvltt",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve iXBwQUeViNolwLAHf04M --open"
+  }
+}
